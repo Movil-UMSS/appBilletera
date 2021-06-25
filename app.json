@@ -1,0 +1,12 @@
+{
+  "name": "appBilletera",
+  "displayName": "appBilletera",
+  "expo": {
+    "name": "appBilletera",
+    "slug": "appBilletera",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
